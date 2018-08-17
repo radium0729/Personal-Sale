@@ -26,7 +26,7 @@
   <td style="text-align:center;"> <a href="https://bit.ly/2vNOcaQ">PHYS1301W </a></td>
   <td style="text-align:center;"></td>
   <td style="text-align:center;">free</td>
-  <td style="text-align:center;">cover</td>
+  <td style="text-align:center;">这里没有图！！！</td>
   <td style="text-align:center;"><strong>Attention!!!</strong><br />没有master physics的code哇！</td>
   </tr>
 
