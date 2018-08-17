@@ -60,7 +60,7 @@
   <tr>
   <td style="text-align:center;"><ul><li>- [ ] Hardcover</li><li>- [ ] Solution</li></ul></td>
   <td style="text-align:center;"> <a href = "https://bit.ly/2MSnTH3" > MATH 2243</ a></ td>
-  <td style="text-align:center;"></td>
+  <td style="text-align:center;">9780134497181<br/>9780134498140</td>
   <td style="text-align:center;">free</td>
   <td style="text-align:center;"><img src="https://bit.ly/2w5XPB4" width="150" ><br /><img src="https://bit.ly/2vOD9hH" width="150" ></td>
   <td style="text-align:center;"><strong>Acceptable</strong><br /><strong>Good</strong></td>
