@@ -2,7 +2,7 @@
 
 If Ads is on, the item not sold out. 
 
-If box checked, the item reserved.
+If box checked, someone reserved item.
 
 Price is firm. Don't ask. 
 
