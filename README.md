@@ -20,3 +20,7 @@ Nothing is free, only together with 100$ or more items.
 
 ## [Home](https://github.com/radium0729/Personal-Sale/blob/master/Home.md)
 
+## [Cosmetics](https://github.com/radium0729/Personal-Sale/blob/master/Cosmetics.md)
+
+
+
