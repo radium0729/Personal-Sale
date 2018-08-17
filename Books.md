@@ -32,7 +32,7 @@
 
   <tr>
   <td style="text-align:center;"> <br/><ul><li>- [ ] Hardcover </li><li>- [ ] Papercover</li></ul> </td>
-  <td style="text-align:center;"> <a href="https://bit.ly/2nMnGKE">CSCI 2011 </a></td>
+  <td style="text-align:center;"> <a href="https://bit.ly/2OK6dxQ">CSCI 2011 </a></td>
   <td style="text-align:center;">9780073383095</td>
   <td style="text-align:center;">140 <br/> 30 </td>
   <td style="text-align:center;"><img src="https://bit.ly/2vEgPqO" width="150" ></td>
