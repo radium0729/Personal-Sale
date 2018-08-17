@@ -14,6 +14,7 @@ No deliver to door or Apt.
 
 对于把最大同性交友平台用来当做我的二手post，我的内心**深háo感wú愧bō疚dòng**
 
+[Contact](Radium0729@gmail.com)
 
 
 ## [Books](https://github.com/radium0729/Personal-Sale/blob/master/Books.md)
