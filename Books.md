@@ -14,7 +14,7 @@
 <tbody>
   <tr>
   <td style="text-align:center;"> <ul><li>- [ ] Papercover</li></ul></td>
-  <td style="text-align:center;"><p><a href= "https://bit.ly/2nMDvAM"> MATH 1271<br/> MATH 1272</a></p> </td>
+  <td style="text-align:center;"><p><a href= "https://bit.ly/2nMDvAM"> MATH 1271</a> <br/> <a href= "https://bit.ly/2MsnONp">MATH 1272</a></p> </td>
   <td style="text-align:center;"> 9781337054720 </td>
   <td style="text-align:center;"> free </td>
   <td style="text-align:center;"><img src="https://bit.ly/2vZy6u8" width="151" ></td>
@@ -23,16 +23,16 @@
 
   <tr>
   <td style="text-align:center;"> <ul><li>- [ ] Papercover</li></ul></td>
-  <td style="text-align:center;"> PHYS1301W </td>
+  <td style="text-align:center;"> <a href="https://bit.ly/2vNOcaQ">PHYS1301W </a></td>
   <td style="text-align:center;"></td>
   <td style="text-align:center;">free</td>
   <td style="text-align:center;">cover</td>
-  <td style="text-align:center;"></td>
+  <td style="text-align:center;"><strong>Attention!!!</strong><br />没有master physics的code哇！</td>
   </tr>
 
   <tr>
   <td style="text-align:center;"> <br/><ul><li>- [ ] Hardcover </li><li>- [ ] Papercover</li></ul> </td>
-  <td style="text-align:center;"> CSCI 2011 </td>
+  <td style="text-align:center;"> <a href="https://bit.ly/2nMnGKE">CSCI 2011 </a></td>
   <td style="text-align:center;">9780073383095</td>
   <td style="text-align:center;">140 <br/> 30 </td>
   <td style="text-align:center;"><img src="https://bit.ly/2vEgPqO" width="150" ></td>
@@ -41,7 +41,7 @@
 
   <tr>
   <td style="text-align:center;"><ul><li>- [ ] Papercover</li></ul></td>
-  <td style="text-align:center;"> CSCI 1913 </td>
+  <td style="text-align:center;"> <a href="https://bit.ly/2nJZloP">CSCI 1913 </a></td>
   <td style="text-align:center;"> 9780321541406 </td>
   <td style="text-align:center;">100</td>
   <td style="text-align:center;"><img src="https://bit.ly/2M83Lo2" width="150" ></td>
@@ -50,7 +50,7 @@
 
   <tr>
   <td style="text-align:center;"><ul><li>- [ ] Papercover</li></ul></td>
-  <td style="text-align:center;"> CSCI 1113 </td>
+  <td style="text-align:center;"><a href="https://bit.ly/2PfDP7T"> CSCI 1113 </a></td>
   <td style="text-align:center;"> 9780134710747 </td>
   <td style="text-align:center;">90</td>
   <td style="text-align:center;"><img src="https://bit.ly/2P3eI8m" width="150" ></td>
