@@ -95,6 +95,6 @@
 </tbody>
 </table>
 
-<p><a href="https://github.com/radium0729/Personal-Sale">Back to Homepage</a></p>
+<p><a href="https://github.com/radium0729/Personal-Sale/blob/master/README.md">Back to Homepage</a></p>
 
 <p><a href="https://github.com/radium0729/Personal-Sale/blob/master/Home.md">Next</a></p>
