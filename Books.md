@@ -5,7 +5,7 @@
   <tr>
   <th style="text-align:center;"> Availiablity </th>
   <th style="text-align:center;"> Course Number </th>
-  <th style="text-align:center;"> ISDN </th>
+  <th style="text-align:center;"> ISBN </th>
   <th style="text-align:center;"> Price$ </th>
   <th style="text-align:center;"> Cover </th>
   <th> More Info </th>
