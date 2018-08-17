@@ -6,7 +6,7 @@ Item 's Hyperlink redirect to original purchase url.
 
 至于什么体验，我很懒，没有体验，只是买多了
 
-别议价，都有Invoices，看原价，不想买别买。
+别议价，都有Invoices，看原价，不想买别买
 
 生产日期都是近1年，我懒得一个一个输了
 
