@@ -1,5 +1,5 @@
 <h2 id="Books">Books</h2>
-
+<p>course number的hyperlink跳转到bookstore</p>
 <table>
 <thead>
   <tr>
@@ -32,9 +32,9 @@
 
   <tr>
   <td style="text-align:center;"> <br/><ul><li>- [ ] Hardcover </li><li>- [ ] Papercover</li></ul> </td>
-  <td style="text-align:center;"> <a href="https://bit.ly/2nMnGKE">CSCI 2011 </a></td>
+  <td style="text-align:center;"> <a href="https://bit.ly/2OK6dxQ">CSCI 2011 </a></td>
   <td style="text-align:center;">9780073383095</td>
-  <td style="text-align:center;">140 <br/> 30 </td>
+  <td style="text-align:center;">90 <br/> 30 </td>
   <td style="text-align:center;"><img src="https://bit.ly/2vEgPqO" width="150" ></td>
   <td style="text-align:center;"> <strong>Nearly New</strong><br /><strong>New</strong></td>
   </tr>
@@ -52,7 +52,7 @@
   <td style="text-align:center;"><ul><li>- [ ] Papercover</li></ul></td>
   <td style="text-align:center;"><a href="https://bit.ly/2PfDP7T"> CSCI 1113 </a></td>
   <td style="text-align:center;"> 9780134710747 </td>
-  <td style="text-align:center;">90</td>
+  <td style="text-align:center;">80</td>
   <td style="text-align:center;"><img src="https://bit.ly/2P3eI8m" width="150" ></td>
   <td style="text-align:center;"> <strong>Nearly New</strong><br />1113现在是JP教<br />考试开卷<strong>开卷</strong>开卷，可以带书<strong>带书</strong>带书</td>
   </tr>
