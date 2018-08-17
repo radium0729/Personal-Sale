@@ -1,6 +1,8 @@
 # Personal Sale
 
-If Ads is on, the item not sold. If box checked, the item reserved.
+If Ads is on, the item not sold. 
+
+If box checked, the item reserved.
 
 Price is firm. Don't ask. 
 
