@@ -1,5 +1,5 @@
 <h2 id="Books">Books</h2>
-<p>course number的hyperlink跳转到bookstore的相应图书</p>
+<p>course number的hyperlink跳转到bookstore<br />作为价格参考</p>
 <table>
 <thead>
   <tr>
