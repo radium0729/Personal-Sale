@@ -1,6 +1,6 @@
 # Personal Sale
 
-If Ads is on, the item not sold. 
+If Ads is on, the item not sold out. 
 
 If box checked, the item reserved.
 
@@ -12,7 +12,7 @@ No venmo.
 
 No deliver to door or Apt. 
 
-Nothing is free, only together with 100$ or more items.
+Nothing is directy free, only together with 100$ or more items.
 
 
 
