@@ -4,11 +4,7 @@
 
 友情价也是不要钱
 
-扔了可惜，打开看了看，卖不出去的杂物
-
-Hyperlink redirect to amazon
-
-不过我不是amazon买的，一般是instcart&COSTCO
+扔了可惜，打开看了看，卖不出去的杂物，堆在家里占地方！
 
 <img src="https://ws3.sinaimg.cn/large/006tNbRwly1fud83k5twhj30g40kpmy9.jpg" width="150"/>
 
