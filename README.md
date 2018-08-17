@@ -12,8 +12,6 @@ No venmo.
 
 No deliver to door or Apt. 
 
-Nothing is directy free, only together with 100$ or more items.
-
 对于把最大同性交友平台用来当做我的二手post，我的内心**深háo感wú愧bō疚dòng**
 
 
