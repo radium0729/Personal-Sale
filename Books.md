@@ -16,7 +16,7 @@
   <td style="text-align:center;"> <ul><li>- [ ] Papercover</li></ul></td>
   <td style="text-align:center;"><p><a href= "https://bit.ly/2nMDvAM"> MATH 1271</a> <br/> <a href= "https://bit.ly/2MsnONp">MATH 1272</a></p> </td>
   <td style="text-align:center;"> 9781337054720 </td>
-  <td style="text-align:center;"> free </td>
+  <td style="text-align:center;"> 10 </td>
   <td style="text-align:center;"><img src="https://bit.ly/2vZy6u8" width="151" ></td>
   <td  style="text-align:center;"><strong>Acceptable</strong><br/>你会想要买书的<br/>尤其当prof不知道在讲什么的时候</td>
   </tr>
@@ -25,7 +25,7 @@
   <td style="text-align:center;"> <ul><li>- [ ] Papercover</li></ul></td>
   <td style="text-align:center;"> <a href="https://bit.ly/2vNOcaQ">PHYS1301W </a></td>
   <td style="text-align:center;"></td>
-  <td style="text-align:center;">free</td>
+  <td style="text-align:center;">20</td>
   <td style="text-align:center;">这里没有图！！！</td>
   <td style="text-align:center;"><strong>Attention!!!</strong><br />没有master physics的code哇！</td>
   </tr>
@@ -61,7 +61,7 @@
   <td style="text-align:center;"><ul><li>- [ ] Hardcover</li><li>- [ ] Solution</li></ul></td>
   <td style="text-align:center;"> <a href = "https://bit.ly/2MSnTH3" > MATH 2243</ a></ td>
   <td style="text-align:center;">9780134497181<br/>9780134498140</td>
-  <td style="text-align:center;">free</td>
+  <td style="text-align:center;">30</td>
   <td style="text-align:center;"><img src="https://bit.ly/2w5XPB4" width="150" ><br /><img src="https://bit.ly/2vOD9hH" width="150" ></td>
   <td style="text-align:center;"><strong>Acceptable</strong><br /><strong>Good</strong></td>
   </tr>
