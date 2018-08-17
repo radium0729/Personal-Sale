@@ -8,7 +8,7 @@
 
 |                             Item                             | Price $ |                      View                       |               More Info                |
 | :----------------------------------------------------------: | :-----: | :---------------------------------------------: | :------------------------------------: |
-| <li><ul><p>- [ ] <a href="https://amzn.to/2OMtP55">Dole Cherry Mixed Fruit</a></p><ul/><li/> |    1    | <img src="https://bit.ly/2MYD6Xj" width="150"/> | Remain 14/16 Cups<br/>生产日期都是最近 |
+| <li><ul><a href="https://amzn.to/2OMtP55">- [ ]Dole Cherry Mixed Fruit</a><ul/><li/> |    1    | <img src="https://bit.ly/2MYD6Xj" width="150"/> | Remain 14/16 Cups<br/>生产日期都是最近 |
 |                                                              |    1    |                                                 |                                        |
 |                                                              |    1    |                                                 |                                        |
 
