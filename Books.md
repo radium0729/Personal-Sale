@@ -22,10 +22,10 @@
   </tr>
 
   <tr>
-  <td style="text-align:center;"> <ul><li>- [ ] Papercover</li></ul></td>
+  <td style="text-align:center;"> <ul><li>- [x] Papercover</li></ul></td>
   <td style="text-align:center;"> <a href="https://bit.ly/2vNOcaQ">PHYS1301W </a></td>
   <td style="text-align:center;"></td>
-  <td style="text-align:center;">20</td>
+  <td style="text-align:center;">...我也不知道！</td>
   <td style="text-align:center;">这里没有图！！！</td>
   <td style="text-align:center;"><strong>Attention!!!</strong><br />没有master physics的code哇！</td>
   </tr>
