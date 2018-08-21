@@ -22,7 +22,7 @@
   </tr>
 
   <tr>
-  <td style="text-align:center;"> <ul><li>- [x] Papercover</li></ul></td>
+  <td style="text-align:center;"> <ul><li>- [ ] Papercover</li></ul></td>
   <td style="text-align:center;"> <a href="https://bit.ly/2vNOcaQ">PHYS1301W </a></td>
   <td style="text-align:center;"></td>
   <td style="text-align:center;">...我也不知道！</td>
