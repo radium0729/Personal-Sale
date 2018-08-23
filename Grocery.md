@@ -16,7 +16,7 @@
 | <a href="https://www.instacart.com/store/items/item_18351526"><ul><li>- [ ] Walden Farms Italian Dressing Calorie Free</li></ul></a> |    1    |       <img src="https://bit.ly/2OMHyJ7" width="150"/>        |                   **New**<br/>封口都没拆                   |
 | <a href="https://www.instacart.com/store/items/item_18313989"><ul><li>- [ ] Maple Grove Farms Fat Free Lime Basil Dressing</li></ul></a> |    1    |       <img src="https://bit.ly/2MmVht9" width="150"/>        |                          都是刚买                          |
 | <a href="https://www.instacart.com/store/items/item_18351412"><ul><li>- [ ] Walden Farms Honey Dijon Dressing Calorie Free</li></ul></a> |    1    | <img src="https://d2d8wwwkmhfcva.cloudfront.net/1200x/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_0efc59c1-c08b-4b20-a1b8-b07025f3ffb8.jpg" width="150"/> | 要么就是打开倒了一点<br/>没有用过第二次<br/>然后就在吃灰了 |
-|                        - [ ] 红糖 2lb                        |    2    |                            没有图                            |              Exp: 04/23/20<br/ >女生会有些用               |
+|               <ul><li>- [ ] 红糖 2lb</li></ul>               |    2    |                            没有图                            |              Exp: 04/23/20 <br/ >女生会有些用              |
 
 [Back to Homepage](https://github.com/radium0729/Personal-Sale/blob/master/README.md)
 
