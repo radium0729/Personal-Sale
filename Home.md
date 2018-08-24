@@ -11,7 +11,7 @@
 |<a href="https://bit.ly/2JU0Jht"><ul><li>- [ ] table</li></ul></a>|5|<img src="https://images-na.ssl-images-amazon.com/images/I/41CHejJTdcL._SL1000_.jpg" width="200">|**Good**<br />|
 |<a href="https://bit.ly/2Augzj9"><ul><li>- [ ] lamp </li></ul></a>|20|<img src="https://www.ikea.com/PIAimages/0529949_PE646443_S5.JPG" width="150" />|**Good**<br />全美最便宜的灯！原链接在前面(ฅωฅ *)<br />贫穷的我<br />四盏打包带灯泡出biu～<br />虽然是纸糊的，不是很容易坏<br />因为摆在那里，你根本不会去动它|
 |<ul><li>- [ ] 墨镜</li></ul><ul><li>- [ ] 墨镜</li></ul><ul><li>- [ ] 墨镜</li></ul>|5|||
-| <ul><li>- [ ] 体重秤</li></ul> | 5 |  |  |
+| <ul><li>- [ ] 体重秤</li></ul> | 5 | <img src="https://imgservice.suning.cn/uimg1/b2c/image/uD7zSF6EfPBuLpZZ6seOvA==.jpg_800w_800h_4e" width="200"> |  |
 
 
 
