@@ -6,6 +6,7 @@
 |<ul><li>- [ ] Pressure Cooker</li></ul>|30|<img src="https://ws3.sinaimg.cn/large/006tNbRwly1fucppmb9rfj30m80m8q3n.jpg" width="150" />|**Good**<br />其实很好，但是我妈妈嫌弃<br />还是注明_(¦3」∠)_一下是电高压锅！不是电饭煲！价格不能和rice cooker比啊<br />烧饭肯定是比电饭煲快一万倍<br />当然你说：我只需要一个烧饭的功能，那完全可以去买rice cooker|
 |steamer||||
 |trash bin||||
+|revolon hair dryer|5|||
 |<a href="https://bit.ly/2Augzj9"><ul><li>- [ ] lamp </li><li>- [ ] lamp </li><li>- [ ] lamp </li><li>- [ ] lamp </li></ul></a>|5|<img src="https://www.ikea.com/PIAimages/0529949_PE646443_S5.JPG" width="150" />|**Good**<br />全美最便宜的灯！原链接在前面(ฅωฅ *)<br />贫穷的我<br />有四盏，送灯泡出！biu～<br />虽然是纸糊的，不是很容易坏<br />因为摆在那里，你根本不会去动它|
 |<ul><li>- [ ] 墨镜</li></ul><ul><li>- [ ] 墨镜</li></ul><ul><li>- [ ] 墨镜</li></ul>|5|||
 |  |  |  |  |
