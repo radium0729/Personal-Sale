@@ -18,10 +18,6 @@ If items have no more info, they will update later.
 
 Contact: <Radium0729@gmail.com>
 
-也可以直接微信，不过我转头可能就忘了
-
-请加入关键词”23332333“，方便我用filter
-
 ## [Books](https://github.com/radium0729/Personal-Sale/blob/master/Books.md)
 
 ## [Home](https://github.com/radium0729/Personal-Sale/blob/master/Home.md)
