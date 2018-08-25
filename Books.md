@@ -14,21 +14,21 @@
   <td style="text-align:center;"> <ul><li>- [ ] Papercover</li></ul></td>
   <td style="text-align:center;"><p><a href= "https://bit.ly/2nMDvAM"> MATH 1271</a> <br/> <a href= "https://bit.ly/2MsnONp">MATH 1272</a></p> </td>
   <td style="text-align:center;"> 9781337054720 </td>
-  <td style="text-align:center;"> 10 </td>
+  <td style="text-align:center;"> 40 </td>
   <td style="text-align:center;"><img src="https://bit.ly/2vZy6u8" width="151" ></td>
   <td  style="text-align:center;"><strong>Acceptable</strong><br/>你会想要买书的<br/>尤其当prof不知道在讲什么的时候</td>
   </tr><tr>
   <td style="text-align:center;"> <ul><li>- [ ] Papercover</li></ul></td>
   <td style="text-align:center;"> <a href="https://bit.ly/2vNOcaQ">PHYS1301W </a></td>
   <td style="text-align:center;"></td>
-  <td style="text-align:center;">...我也不知道！</td>
+  <td style="text-align:center;">20</td>
   <td style="text-align:center;">这里没有图！！！</td>
   <td style="text-align:center;"><strong>Attention!!!</strong><br />没有master physics的code哇！</td>
   </tr><tr>
   <td style="text-align:center;"> <br/><ul><li>- [ ] Hardcover </li><li>- [ ] Papercover</li></ul> </td>
   <td style="text-align:center;"> <a href="https://bit.ly/2OK6dxQ">CSCI 2011 </a></td>
   <td style="text-align:center;">9780073383095</td>
-  <td style="text-align:center;">90 <br/> 30 </td>
+  <td style="text-align:center;">120 <br/> 30 </td>
   <td style="text-align:center;"><img src="https://bit.ly/2vEgPqO" width="150" ></td>
   <td style="text-align:center;"> <strong>Nearly New</strong><br /><strong>New</strong></td>
   </tr><tr>
@@ -42,7 +42,7 @@
   <td style="text-align:center;"><ul><li>- [ ] Papercover</li></ul></td>
   <td style="text-align:center;"><a href="https://bit.ly/2PfDP7T"> CSCI 1113 </a></td>
   <td style="text-align:center;"> 9780134710747 </td>
-  <td style="text-align:center;">80</td>
+  <td style="text-align:center;">90</td>
   <td style="text-align:center;"><img src="https://bit.ly/2P3eI8m" width="150" ></td>
   <td style="text-align:center;"> <strong>Nearly New</strong><br />1113现在是JP教<br />考试开卷<strong>开卷</strong>开卷，可以带书<strong>带书</strong>带书</td>
   </tr><tr>
