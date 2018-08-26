@@ -51,7 +51,7 @@
   <td style="text-align:center;">9780134497181<br/>9780134498140</td>
   <td style="text-align:center;">80</td>
   <td style="text-align:center;"><img src="https://bit.ly/2w5XPB4" width="150" ><br /><img src="https://bit.ly/2vOD9hH" width="150" ></td>
-  <td style="text-align:center;"><strong>Acceptable</strong><br /><strong>Good</strong></td>
+  <td style="text-align:center;"><strong>Acceptable</strong><br /><strong>Good</strong><br/>有两套，还有一套3rd的，30$,带solution出，变化不大，除了习题有些变化</td>
   </tr><tr>
   <td style="text-align:center;"><strong>Upcoming</strong></td>
   <td style="text-align:center;"><strong>&hellip;</strong></td>
