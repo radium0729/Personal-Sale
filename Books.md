@@ -46,13 +46,6 @@
   <td style="text-align:center;"><img src="https://bit.ly/2P3eI8m" width="150" ></td>
   <td style="text-align:center;"> <strong>Nearly New</strong><br />1113现在是JP教<br />考试开卷<strong>开卷</strong>开卷，可以带书<strong>带书</strong>带书</td>
   </tr><tr>
-  <td style="text-align:center;"><ul><li>- [ ] Hardcover</li><li>- [ ] Solution</li></ul></td>
-  <td style="text-align:center;"> <a href = "https://bit.ly/2MSnTH3" > MATH 2243</ a></ td>
-  <td style="text-align:center;">9780134497181<br/>9780134498140</td>
-  <td style="text-align:center;">80</td>
-  <td style="text-align:center;"><img src="https://bit.ly/2w5XPB4" width="150" ><br /><img src="https://bit.ly/2vOD9hH" width="150" ></td>
-  <td style="text-align:center;"><strong>Acceptable</strong><br /><strong>Good</strong><br/>有两套，还有一套3rd的，30$,带solution出，变化不大，除了习题有些变化</td>
-  </tr><tr>
   <td style="text-align:center;"><strong>Upcoming</strong></td>
   <td style="text-align:center;"><strong>&hellip;</strong></td>
   <td style="text-align:center;"><strong>&hellip;</strong></td>
