@@ -4,7 +4,7 @@
 
 | Item | Price | View | More Info |
 | :--: | :---: | :--: | :-------: |
-|<ul><li>- [x] Pressure Cooker</li></ul>|30|<img src="https://ws3.sinaimg.cn/large/006tNbRwly1fucppmb9rfj30m80m8q3n.jpg" width="150" />|**Good**<br />其实很好，但是我妈妈嫌弃<br />还是注明_(¦3」∠)_一下是电高压锅！不是电饭煲！价格不能和rice cooker比啊<br />烧饭肯定是比电饭煲快一万倍<br />当然你说：我只需要一个烧饭的功能，那完全可以去买rice cooker|
+|<ul><li>- [ ] Pressure Cooker</li></ul>|40|<img src="https://ws3.sinaimg.cn/large/006tNbRwly1fucppmb9rfj30m80m8q3n.jpg" width="150" />|**Good**<br />其实很好，但是我妈妈嫌弃<br />还是注明_(¦3」∠)_一下是电高压锅！不是电饭煲！价格不能和rice cooker比啊<br />烧饭肯定是比电饭煲快一万倍<br />当然你说：我只需要一个烧饭的功能，那完全可以去买rice cooker|
 |<a href="https://amzn.to/2wj8TMj">Sushi Knife</a>|<ul><li>- [x] 5</li><li>- [ ] 5</li><li>- [ ] 5</li><li>- [ ] 5</li></ul>|<img src="https://bit.ly/2MN5Fdo" width="150">|**Good**|
 |<a herf="https://amzn.to/2o742ZK"><ul><li>- [ ] lens wipe 75pcs </li></ul></a>|5|<img src="https://images-na.ssl-images-amazon.com/images/I/510g3xAb8mL.jpg" width="150">|**New**|
 |<a href="https://bit.ly/2Augzj9"><ul><li>- [ ] lamp </li></ul></a>|<ul><li>- [ ] 5</li><li>- [ ] 5</li><li>- [ ] 5</li><li>- [ ] 5</li></ul>|<img src="https://www.ikea.com/PIAimages/0529949_PE646443_S5.JPG" width="150" />|**Good**<br />全美最便宜的灯！原链接在前面(ฅωฅ *)<br />贫穷的我<br />四盏带灯泡出biu～<br />虽然是纸糊的，不是很容易坏<br />因为摆在那里，你根本不会去动它<br />|
